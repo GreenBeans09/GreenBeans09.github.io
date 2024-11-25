@@ -1,4 +1,5 @@
-
+<!DOCTYPE html>
+<html lang="en-US">
 <head>
    <title> Online News Article (Max Koerth)</title>
     <h1> The Grand Opening of "Henry and Howard's Supermarket"</h1>
@@ -11,4 +12,4 @@
 <h3>Link Back to GreenBeans09.github.io</h3>
 <a href="greenbeans09.github.io/README.md" target="_self"> Home Page<a>
 </body>
-
+</html>
