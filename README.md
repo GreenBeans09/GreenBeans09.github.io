@@ -2,7 +2,7 @@
 <h1>Online News Article (Max Koerth)</h1>
 <p>This is an article talking about a supermarket called Henry and Howard's Supermarket. In addition it talks a bit about the history of it.</p> 
 <a href="WebDesign/OnlineNewsArticle.html" target="_self"> Online News Article</a>
-<h4>Online News Article PDF</h4>
+<h4>Online News Article (Max Koerth) PDF</h4>
 <a href="WebDesign/Documents/OnlineNewsArticle-(Max-Koerth).pdf" target="_blank"> Online News Article PDF</a>
 <h4>10-Day Weather Forecast</h4>
 <p>This is a link to a 10-Day weather forecast in Kenosha.</p>
